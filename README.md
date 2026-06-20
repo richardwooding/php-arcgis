@@ -1,6 +1,9 @@
 # php-arcgis
 
 [![CI](https://github.com/richardwooding/php-arcgis/actions/workflows/ci.yml/badge.svg)](https://github.com/richardwooding/php-arcgis/actions/workflows/ci.yml)
+[![Latest Stable Version](https://img.shields.io/packagist/v/richardwooding/arcgis.svg)](https://packagist.org/packages/richardwooding/arcgis)
+[![Total Downloads](https://img.shields.io/packagist/dt/richardwooding/arcgis.svg)](https://packagist.org/packages/richardwooding/arcgis)
+[![PHP Version Require](https://img.shields.io/packagist/dependency-v/richardwooding/arcgis/php.svg)](https://packagist.org/packages/richardwooding/arcgis)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 A small, dependency-free PHP client for querying **ArcGIS Feature Services**
