@@ -6,6 +6,10 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
 
+## [0.1.0] - 2026-06-20
+
+Initial release.
+
 ### Added
 - Initial PHP port of [`go-arcgis`](https://github.com/richardwooding/go-arcgis).
 - `Client` constructed with a base URL and optional named arguments
@@ -28,3 +32,6 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
   `HttpClient` interface for bringing your own (e.g. a Guzzle/PSR-18 wrapper).
 - Automatic GET → POST fallback for queries whose encoded parameters would risk
   exceeding server URL-length limits (e.g. a detailed polygon filter).
+
+[Unreleased]: https://github.com/richardwooding/php-arcgis/compare/v0.1.0...HEAD
+[0.1.0]: https://github.com/richardwooding/php-arcgis/releases/tag/v0.1.0
